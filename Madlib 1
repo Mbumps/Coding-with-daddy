@@ -1,0 +1,30 @@
+print("This is a Madlib")
+print("Answer the questions")
+print("")
+
+negativeadjective1=str(input("Enter a negative adjective:>>>"))
+highnumber1=int(input("Enter a high number :>>>"))
+animal1=str(input("Enter a animal:>>>"))
+number1=int(input("Enter a number:>>>"))
+striker1=str(input("Enter a spurs striker:>>>"))
+striker2=str(input("Enter a spurs striker:>>>"))
+player1=str(input("Enter a spurs player:>>>"))
+goalkeeper1=str(input("Enter a spurs keeper:>>>"))
+lowenglishleague=str(input("Enter an English legue below the premier league:>>>"))
+
+
+
+
+
+
+print("")
+print("Here is your Madlib")
+print("")
+print("Spurs football club is",negativeadjective1,".There strikers are",striker1,)
+print("and",striker2,",Whom cannot score goal and have conceded",number1,"goal kicks")
+print("of",number1,"shots")
+print(".One of the players are",player1,",who is as good as a",animal1)
+print(".There best player, who is",goalkeeper1,",has the guniess world and universe record for:")
+print(".Drumroll please!!!")
+print(".Most goals conceded in 1 minute his record was",highnumber1,)
+print(".In conclusion I can agree that they will get demoted to",lowenglishleague,)
